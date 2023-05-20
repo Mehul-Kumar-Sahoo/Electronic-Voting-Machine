@@ -1,5 +1,7 @@
 # Electronic Voting Machine (EVM)
 
+Skills: Proteus 7, Digital Electronics
+
 - I am Mehul Kumar Sahoo of in B.Tech Part 2 in IIT (BHU), Varanasi persuing Electronics Engineering. 
 - I have made an Electronic Voting Machine (EVM) using PROTEUS for the event of DIGISIM in Udyam'23, annual technical fest of Electronics Engineering Society IIT (BHU), Varanasi.
 - I have also designed a PCB using EagleCAD to implement the EVM (Schematic, Board and Gerber files are also attached in this repository).
